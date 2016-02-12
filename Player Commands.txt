@@ -1,0 +1,67 @@
+Player Commands:
+
+equalsIgnoreCase
+
+str
+
+int
+
+luk
+
+dex
+
+resetstr
+
+resetdex
+
+resetint
+
+resetluk
+
+rebirthbonus
+
+expfix
+
+joinevent
+
+gm
+
+goto || go
+
+spystats
+
+shop || aio
+
+checkstats
+
+nimakin || female
+
+kin 	|| male
+
+dispose || d
+
+save 	|| s
+
+chalktalk || chalk
+
+henesys || hene
+
+fm	|| freemarket
+
+job
+
+maxskills || maxskill
+
+ep	|| fmnpc   || mymaple
+
+rebornexp
+
+reborncyg
+
+reborna
+
+online 	|| connected
+
+reborn  || rebirth
+
+commands|| help || command
